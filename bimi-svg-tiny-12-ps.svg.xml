@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg width="250" height="250" version="1.2" baseProfile="tiny-ps" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg">
+  <title>bimi-svg-tiny-12-ps</title>
+  <g>
+    <rect fill="white" width="250" height="250"/>
+    <defs>
+			
+		</defs>
+    <g>
+      <use transform="matrix(0.88 0 0 0.856 16 20)"/>
+    </g>
+  </g>
+</svg>
